@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"stateMutability": "payable",
+				"type": "fallback"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract-917f614593.sol": "TestPayable"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract-917f614593.sol": {
+			"keccak256": "0xc35ccac25a93be572f55941c9151b3c88f6829b7aa2cc031cc3da494d22aa5fa",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://ff1ea28bf2bd45876d5adac328a58ba890dec55ed0c106502ded2a7c418837a0",
+				"dweb:/ipfs/QmczipLL61nwCcDcSph8PDY36hSVZpAP3mo9mY49pQAmh3"
+			]
+		}
+	},
+	"version": 1
+}
