@@ -1,0 +1,16 @@
+{
+  "name": "TestPayable",
+  "address": "0x8ba1f109551bD432803012645Ac136ddd64DBA72",
+  "abi": [
+    {
+      "stateMutability": "payable",
+      "type": "fallback"
+    },
+    {
+      "stateMutability": "payable",
+      "type": "receive"
+    }
+  ],
+  "filePath": "code-sample/contract-917f614593.sol",
+  "pinnedAt": 1725841947317
+}
